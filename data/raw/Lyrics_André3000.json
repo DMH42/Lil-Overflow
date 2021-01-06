@@ -1,0 +1,1073 @@
+{
+ "alternate_names": [
+  "Ice ColdAndr\u00e9 L. Benjamin",
+  "Dukey Blossum",
+  "Chamelio Salamander",
+  "Love Pusher",
+  "Possum Aloysius Jenkins",
+  "Cupid Valentino",
+  "Andr\u00e9 Lauren Benjamin",
+  "Andr\u00e9 Benjamin"
+ ],
+ "api_path": "/artists/14266",
+ "description": {
+  "plain": "Often regarded as one of the best rappers of all time, Andr\u00e9 Lauren Benjamin, better known by his stage name, Andr\u00e9 3000, is a rapper, singer-songwriter, multi-instrumentalist, record producer, and actor, best known for his work as one-half of the hip-hop duo OutKast alongside his partner in rhyme, Big Boi.\n\nAndr\u00e9 and Big Boi came together during their high school years and released their first single, \u201cPlayer\u2019s Ball\u201d, in 1993 before releasing their debut album in 1994. The duo has released some of the most critically acclaimed albums in hip-hop history, culminating in them winning the Grammy Award for Album of the Year for their 2003 double album Speakerboxxx/The Love Below, in part due to his genre-bending single \u201cHey Ya!\u201d OutKast went on hiatus and Andr\u00e9 made a number of show-stealing guest appearances over the years as fans continue to anticipate another full-length project from him."
+ },
+ "facebook_name": "",
+ "followers_count": 473,
+ "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+ "id": 14266,
+ "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Andr\u00e9 3000",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Andre-3000",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 110,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1557992,
+  "annotator_login": "kev1KS",
+  "api_path": "/referents/6936695",
+  "classification": "accepted",
+  "fragment": "Andr\u00e9 3000",
+  "id": 6936695,
+  "is_description": true,
+  "path": "/6936695/Andre-3000/Andre-3000",
+  "range": {
+   "content": "Andr\u00e9 3000"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6936695/Andre-3000/Andre-3000",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/14266",
+   "context": null,
+   "id": 14266,
+   "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "link_title": "Andr\u00e9 3000",
+   "title": "Andr\u00e9 3000",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Andre-3000"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6936695",
+    "body": {
+     "plain": "Often regarded as one of the best rappers of all time, Andr\u00e9 Lauren Benjamin, better known by his stage name, Andr\u00e9 3000, is a rapper, singer-songwriter, multi-instrumentalist, record producer, and actor, best known for his work as one-half of the hip-hop duo OutKast alongside his partner in rhyme, Big Boi.\n\nAndr\u00e9 and Big Boi came together during their high school years and released their first single, \u201cPlayer\u2019s Ball\u201d, in 1993 before releasing their debut album in 1994. The duo has released some of the most critically acclaimed albums in hip-hop history, culminating in them winning the Grammy Award for Album of the Year for their 2003 double album Speakerboxxx/The Love Below, in part due to his genre-bending single \u201cHey Ya!\u201d OutKast went on hiatus and Andr\u00e9 made a number of show-stealing guest appearances over the years as fans continue to anticipate another full-length project from him."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6936695,
+    "pinned": false,
+    "share_url": "https://genius.com/6936695",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6936695/Andre-3000/Andre-3000",
+    "verified": false,
+    "votes_total": 111,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.7142857142857143,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3492882",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/981605b56878ef16a812df453300d0fc",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/981605b56878ef16a812df453300d0fc",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/981605b56878ef16a812df453300d0fc",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/981605b56878ef16a812df453300d0fc",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/981605b56878ef16a812df453300d0fc",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3492882,
+       "iq": 1481964,
+       "login": "SmashBeezy",
+       "name": "SmashBeezy",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/SmashBeezy",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.2789115646258503,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1557992",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/ddd0c5e60e4c006b227ef89ee5cc652e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/ddd0c5e60e4c006b227ef89ee5cc652e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/ddd0c5e60e4c006b227ef89ee5cc652e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/ddd0c5e60e4c006b227ef89ee5cc652e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/8052ba3d1ec25f2cdbc2f25ff5d7fa7a.1000x563x1.png",
+       "human_readable_role_for_display": "Mediator",
+       "id": 1557992,
+       "iq": 18720,
+       "login": "kev1KS",
+       "name": "Kev1KS",
+       "role_for_display": "mediator",
+       "url": "https://genius.com/kev1KS",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.006802721088435374,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3624213",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b73dcf051cc5600779646abcdcf8a5f0",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b73dcf051cc5600779646abcdcf8a5f0",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b73dcf051cc5600779646abcdcf8a5f0",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b73dcf051cc5600779646abcdcf8a5f0",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/85558b56a8d400f0e5a8084bdabdc3b9.774x366x1.png",
+       "human_readable_role_for_display": "Verified Artist",
+       "id": 3624213,
+       "iq": 4033,
+       "login": "RyanGarber",
+       "name": "Ryan Garber",
+       "role_for_display": "verified_artist",
+       "url": "https://genius.com/RyanGarber",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/3790590",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/293da0c2f52e48bacfa648df2cd3e0da",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/293da0c2f52e48bacfa648df2cd3e0da",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/293da0c2f52e48bacfa648df2cd3e0da",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/293da0c2f52e48bacfa648df2cd3e0da",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 3790590,
+  "iq": 110,
+  "login": "Andre3000",
+  "name": "Andr\u00e9 3000",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/Andre3000",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 7,
+   "api_path": "/songs/3715132",
+   "full_title": "Me&My (To Bury Your Parents) by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/f4ab201249ed5c4e858d0508216b5068.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f4ab201249ed5c4e858d0508216b5068.500x500x1.jpg",
+   "id": 3715132,
+   "lyrics_owner_id": 2458631,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-me-my-to-bury-your-parents-lyrics",
+   "pyongs_count": 13,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f4ab201249ed5c4e858d0508216b5068.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f4ab201249ed5c4e858d0508216b5068.500x500x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false,
+    "pageviews": 28696
+   },
+   "title": "Me&My (To Bury Your Parents)",
+   "title_with_featured": "Me&My (To Bury Your Parents)",
+   "url": "https://genius.com/Andre-3000-me-my-to-bury-your-parents-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "[Verse 1]\nMe and my mother, driving to the grocery store\nMe riding shotgun with my window rolled down\nShe smoked cigarettes and gets what she gets by\nHustling harder, rollers and a nightgown\n\n[Verse 2]\nMe and my father, driving to the football game\nMe riding shotgun, my window rolled down\nHe sipped Cognac and kept us all laughing\nI was much happier when he was around\n\n[Bridge]\nWhen he was around\nWhen he was around\nAround\n\n[Instrumental Interlude]\n\n[Outro]\nAround\nAround\nAround\nMe and my mother\nMe and my father\nMe and my\u2014\nMe and my\u2014\nMe and\u2014\nMe and\u2014\nMe"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3715140",
+   "full_title": "Look Ma No Hands by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/139fcf74db5042763be868237f1b8462.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/139fcf74db5042763be868237f1b8462.500x500x1.jpg",
+   "id": 3715140,
+   "lyrics_owner_id": 4424691,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-look-ma-no-hands-lyrics",
+   "pyongs_count": 4,
+   "song_art_image_thumbnail_url": "https://images.genius.com/139fcf74db5042763be868237f1b8462.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/139fcf74db5042763be868237f1b8462.500x500x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false,
+    "pageviews": 14783
+   },
+   "title": "Look Ma No Hands",
+   "title_with_featured": "Look Ma No Hands",
+   "url": "https://genius.com/Andre-3000-look-ma-no-hands-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "[Instrumental]"
+  },
+  {
+   "annotation_count": 13,
+   "api_path": "/songs/1694",
+   "full_title": "Pink & Blue by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "id": 1694,
+   "lyrics_owner_id": 7,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-pink-and-blue-lyrics",
+   "pyongs_count": 6,
+   "song_art_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 2,
+    "hot": false,
+    "pageviews": 12625
+   },
+   "title": "Pink & Blue",
+   "title_with_featured": "Pink & Blue",
+   "url": "https://genius.com/Andre-3000-pink-and-blue-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "(Aaliyah)\nAge ain't nuthin but a number [repeats4x & fades out]\n\n[Hook]\nPretty pink, baby blue\nWhy don't (why don't) you teach me something new\nWe're all (we're all) just babies in my view\nSo crawl baby\nCrawl baby\nPretty pink, baby blue\nWhy don't (why don't) you teach me something new\nWe're all (we're all) just babies in my view\nSo crawl baby\nCrawl baby\n\n[Verse 1]\nMiss lady\nYou could have been born a little later but I don't care\nSo what if your head sports a couple of grey hairs\nSame here, and actually I think that's funky\n(In a Claire Huxtable type way)\nMiss lady\nIt looks to me like you need a little juice in your life\nSo call me when that big ole house gets lonelyfied\nAnd I'll teleport from here to there\nYou show me how it's supposed to be done\nI'll make sure you have young fun\n\n[Hook]\nPretty pink, baby blue\nWhy don't (why don't) you teach me something new\nWe're all (we're all) just babies in my view\nSo crawl baby\nCrawl baby\nPretty pink, baby blue\nWhy don't (why don't) you teach me something new\nWe're all (we're all) just babies in my view\nSo crawl baby\nCrawl baby\n\n[Verse 2]\nYou're sophisticated\nJust me and miss lady\nYou've got me talkin like a baby\nYou make me talk baby talk\nShe's so sophisticated\nYou make me talk baby talk\nJust me and miss lady\nShe makes me talk baby talk\nGot me talkin like a baby\nLike ga ga and goo goo\nOh momma\nYou're sophisticated\nMake me talk baby talk\nJust me and miss lady\nYou're so experienced\nGot me talkin like a baby\nTeach me somethin new\nTeach me somethin new\nYou're sophisticated\nJust me and miss lady\nYou got me talkin like a baby"
+  },
+  {
+   "annotation_count": 12,
+   "api_path": "/songs/6034",
+   "full_title": "Chronomentrophobia (Movie Version) by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/bd56aed022f1f74a51d3fc38fa34172f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/bd56aed022f1f74a51d3fc38fa34172f.900x900x1.jpg",
+   "id": 6034,
+   "lyrics_owner_id": 10690,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-chronomentrophobia-movie-version-lyrics",
+   "pyongs_count": 3,
+   "song_art_image_thumbnail_url": "https://images.genius.com/bd56aed022f1f74a51d3fc38fa34172f.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/bd56aed022f1f74a51d3fc38fa34172f.900x900x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false,
+    "pageviews": 11052
+   },
+   "title": "Chronomentrophobia (Movie Version)",
+   "title_with_featured": "Chronomentrophobia (Movie Version)",
+   "url": "https://genius.com/Andre-3000-chronomentrophobia-movie-version-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "[Intro]\nChronomentrophobia, the fear of clocks\nThe fear of time...\n\n[Verse 1]\nHigh's the cost of living\nI take what I have been given\nPastor say, be strooong\nHooo yeahhhhahhh\nI ain't' got tiiiime\nLeave me aloone\n\n[Bridge]\nAin't that much time left\nI've got to funk you now\n\n[Hook]\nChronomentrophobia (x8)\n\n[Verse 2]\nLord, be havin' mercy on my soul\nI'm havin' the impression that my life gonna be a bowl of cherries\nBut it's very hard for me to cope\nGot tired of being broke\nThis ATLien ain't' got no time to sit and mope\nMade up my mind while ya'll made up yo beds\nOn a cold wooden floor is where I lay my head\nBorn in 1975\nNever thought I'd make it this far\nStill battlin' in this racial war\nTryin' to find solutions to the situation I'm facin'\nOnly thing that's free is my flow that yall be chasin'\nLettin' my niggas know before I go\nI drop that knowledge like dropping books\nLet's stop the crooks from robbing of your brains and such\nUsing welfare as a crutch\nI'm in it for good\nYou enter my hood you won't be findin' much\nHope that when I'm gone ya'll remember this\nWhat we stood for, fuck that fame and that glitz\nIt's beginning to look a lot like the ending\nGot to be more careful, know what corners you be bendin'\nRevelations getting impatient\nNow I'm dead\nRemember what I said\nI'm gone\nBow ya heads"
+  },
+  {
+   "annotation_count": 21,
+   "api_path": "/songs/493724",
+   "full_title": "Outkast Reunion Tour Jumpsuit Slogans by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "id": 493724,
+   "lyrics_owner_id": 172611,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-outkast-reunion-tour-jumpsuit-slogans-lyrics",
+   "pyongs_count": 9,
+   "song_art_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false,
+    "pageviews": 6415
+   },
+   "title": "Outkast Reunion Tour Jumpsuit Slogans",
+   "title_with_featured": "Outkast Reunion Tour Jumpsuit Slogans",
+   "url": "https://genius.com/Andre-3000-outkast-reunion-tour-jumpsuit-slogans-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "(Yin-Yang)\n\nX\n\nF#CK 3000\n\nI pray there's a god at the end of all this\n\nLife is short, take more baths\n\nChildren of the cornbread\n\nI've never been to afrika\n\nSorry I forgot to call you back\n\nObviously oblivious\n\nHow good a friend are you\n\nBig girls are beautiful to me\n\nFruit snack addict\n\nUmm, you still on yo' pyramid?\n\nAcross cultures, darker people suffer most. why?\n\nOk, hand over the cure and stop playing\n\nArt or fart?\n\nI've never had f@ckbook, twitt@r, or inst@gram\n\nEverything is temporary\n\nNinjas kill me\n\nBreathe\n\nSloppy wet Poseidon\n\nGod. or god?\n\nI love old people\n\nLoners get lonely too\n\nNarcissistic americans\n\nThinking deeply about shallow s#it\n\nPassionate about compassion\n\nAndre-now-thousand"
+  },
+  {
+   "annotation_count": 12,
+   "api_path": "/songs/86794",
+   "full_title": "Banana Zoo by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "id": 86794,
+   "lyrics_owner_id": 122883,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-banana-zoo-lyrics",
+   "pyongs_count": 1,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 3,
+    "hot": false
+   },
+   "title": "Banana Zoo",
+   "title_with_featured": "Banana Zoo",
+   "url": "https://genius.com/Andre-3000-banana-zoo-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "[Gorilla]\nIts about to get bananas in here\nHey look at that ape,over that baby\n\n[Hook]\nBanana Zoo ooh baby, do want you wanna do\nBanana Zoo ooh shawty move like an animal\nNow go down low, don't stop now swang like orangutang\nNow take it slow, go on an walk now and watch him do his thing\nBut just don't tap the glass\n\n[Gorilla]\nDon't tap the glass\nI'm telling you i'll go crazy\nI beat on my chest because I am the best\nI'm the king of the jungle\nAnd I ain't lying\nGet I ain't lying\nI ain't lying\nNaw I a'int no lion\nNow you can tell King Kong\nHe don't run this\nYou can't throw no monkey wrench in this\nNow whats the name of my town\n\nBanana Zoo ooh baby, do want you wanna do\nBanana Zoo ooh shawty move like an animal\nNow go down low, dont stop now swing like orangutang\nNow take it slow, go on an walk now and watch him do his thing\nBut just don't tap the glass, don't tap the glass, don't tap the glass\nDon't tap the glass, don't tap the glass, don't tap the glass\nUh o\nGorilla, go, gorilla go,go, gorilla go, gorilla go, go\nGorilla go, gorilla go, go, Gorilla go, gorilla, go, go\nNow move like a monkey, Now move like a monkey, now move like a monkey, now move like a monkey\nHold up!\n\n[Gorilla]\nHey, can you tell Mr. zookeeper to please order me a 1000 pounds of banana pudding\nI would love that"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/1981592",
+   "full_title": "Sleazy by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "id": 1981592,
+   "lyrics_owner_id": 2361705,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-sleazy-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 2,
+    "hot": false
+   },
+   "title": "Sleazy",
+   "title_with_featured": "Sleazy",
+   "url": "https://genius.com/Andre-3000-sleazy-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "I dont need you and your brand new Benz\nOr your boujee friends\nAnd I dont need love looking like diamonds\nLooking like diamonds\nGet sleazy\nWe started out so cute in our baby pictures\nThat mommy shot for our daddy so that he wouldn't forget you\nHe forgot anyway, but hey, one day hell remember\nIf not hes human, Im human, you human, well forgive him\nGod gives him his ultimatum, can't see how momma hates him\nHes such a cool a-s guy, then wonder why she date him\nIm only 8, Im not old enough, guess its complicated\nTwo parent dwellings, expelling have got so underrated\nI only say this in cadence so it dont get negated\nI was gon save it for later but later look like maybe\nThis crazy lady named Kesha is guessing my Mercedes\nWould be all new and through through, but its the 19802s\nBut now that we are cool cool, she sippin Irish Baileys\nShe say Stacks, youre true blue?\nI said Nah, Im Navy\nI call her Kesha, she like it, because its hood to her\nShe call me Andre 6000 cause Im good to her\nI dont need you and your brand new Benz\nOr your boujee friends\nAnd I dont need love looking like diamonds\nLooking like diamonds\nI dont need you or your brand new Benz\nOr your boujee friends\nAnd I dont need love looking like diamonds\nLooking like diamonds\nYou can't imagine the immensity of the f*ck Im not giving\nAbout your money and man servant at the mansion you live in\nAnd I dont wanna go places where all my ladies can't get in\nJust grab a bottle, some boys, and lets take it back to my basement\nAnd get sleazy, sick of all your lines, so cheesy\nSorry daddy, but Im not that easy\nIm not gonna sit here while you circle jerk it and work it\nImma take it back to where my man and my girls is\nSleazy, get sleazy, get sleazy, get sleazy, cause imma get\nSleazy, get sleazy, get sleazy, get sleazy, cause imma get\nI dont need you and your brand new Benz\nOr your boujee friends\nAnd I dont need love looking like diamonds\nLooking like diamonds\nI dont need you and your brand new Benz\nOr your boujee friends\nAnd I dont need love looking like diamonds\nLooking like diamonds\nRat-a-tat-tat on your dum-dum drum\nThe beats so fat gonna make me come\nUm, um, um, over to your place!\nRat-a-tat-tat on your dum-dum drum\nThe beats so fat, gonna make me come\nUm, um, um, over to your place!\nI dont mean to critique on your seduction technique\nBut your moneys not impressing me, its kinda weak\nThat you really think youre gonna get my rocks off\nGet my top and socks off, by showing me the dollars in your drop box\nMe and all my friends, we dont buy bottles, we bring em\nWe take the drinks from the tables when you get up and leave em\nAnd I dont care if you stare and you call us scummy\nCause we ain't after your affection, and sure as hell not your money, honey\nI dont need you and your brand new Benz\nOr your boujee friends\nAnd I dont need love looking like diamonds\nLooking like diamonds\nI dont need you and your brand new Benz\nOr your boujee friends\nAnd I dont need love looking like diamonds\nLooking like diamonds\nRat-a-tat-tat on your dum-dum drum\nThe beats so fat, gonna make me come\nUm, um, um, over to your place!\nRat-a-tat-tat on your dum-dum drum\nThe beats so fat, gonna make me come\nUm, um, um, over to your place!"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/148127",
+   "full_title": "Back to Black by\u00a0Andr\u00e9\u00a03000 (Ft.\u00a0Beyonc\u00e9)",
+   "header_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "id": 148127,
+   "lyrics_owner_id": 110991,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-back-to-black-lyrics",
+   "pyongs_count": 6,
+   "song_art_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "Back to Black",
+   "title_with_featured": "Back to Black (Ft.\u00a0Beyonc\u00e9)",
+   "url": "https://genius.com/Andre-3000-back-to-black-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "[Verse 1: Andr\u00e9 3000]\nI, I, I left no time to regret\nKept my dick wet with that same old bed\nOh, and you, you and your head high\nAnd your tears dry - get on without your guy\n\nAnd I, I, I went back to a anew\nSo far removed from all we've been through\nOh-oh-oh, and you and you and you\nYou tread a troubled track\nYour odds are always stacked\nYou'll go back to black\n\nWe only said goodbye with words\nI know a hundred times\nI'd go back to her\nAnd you go back to...\nYou go back to...\n\n[Verse 2: Beyonc\u00e9]\nI, I love you much - it's not enough\nI love blowing you lovepuff\nAnd life is like a pipe\nAnd I'm a tiny penny rolling up the walls inside\n\nWe only said goodbye with words\nI died a hundred times\nYou go back to her\nAnd I go back to...\n\nWe only said goodbye with words\nI died a hundred times\nYou go back to her\nAnd I go back to...\nI go back to black"
+  },
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/1644203",
+   "full_title": "We Want Your Soul by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "id": 1644203,
+   "lyrics_owner_id": 4446252,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-we-want-your-soul-lyrics",
+   "pyongs_count": 1,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 6,
+    "hot": false
+   },
+   "title": "We Want Your Soul",
+   "title_with_featured": "We Want Your Soul",
+   "url": "https://genius.com/Andre-3000-we-want-your-soul-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "Ah, Li'l D, welcome to Soul Stack Records\nSo, I hear you like to be a star\nWell, the price of fame is not cheap\nI hope you got what it takes\n\nBut all we want is your soul, give it to me\n(Soul)\nAll we want is your soul, give it to me\n(Soul)\n\nSoul? Shawty, I got that\nLil' D make a beat, make it hop back\nLike a Rabbit, Volkswag or a Cadillac\nI'ma show you how to do a record contract\n\nYou earn it the old fashioned way\nI'm already gold in the hood, past the plate and I'm\nSellin' million records, I can't wait and I'm\nGonna do whatever it takes to 'till I'm straight got soul, sell it\n\nAll we want is your soul, give it to me\nAll we want is your soul, give it to me\n\nGet 'em, shawty, get 'em, shawty\nGet 'em, shawty, get 'em, shawty\nGive it to 'em, give it to 'em\nGive it to 'em, wham\n\nGet 'em, shawty, get 'em, shawty\nGet 'em, shawty, get 'em, shawty\nGive it to 'em, give it to 'em\nGive it to 'em, wham\n\nGet 'em, shawty, get 'em, shawty\nGet 'em, shawty, get 'em, shawty\nGive it to 'em, give it to 'em\nGive it to 'em, wham\n\nGet 'em, shawty, get 'em, shawty\nGet 'em, shawty, get\n\nYeah, yes sir, yes ma'am\nThe whole world will know who I am\nIt's Li'l D on the [Incomprehensible], straight guy\n[Incomprehensible] what you know, I'm the champ\n\nYes, sir, yes, ma'am\nThe whole world will know who I am\nIt'sLi'l D on the [Incomprehensible], straight guy\n[Incomprehensible] what you know, I'm the champ\n\nYes, sir, yes, ma'am\nThe whole world will know who I am\nIt's Li'l D on the [Incomprehensible], straight guy\n[Incomprehensible] what you know, I'm the champ\n\nYes, sir, yes, ma'am\nThe whole world will know who I am\nIt's Li'l D on the [Incomprehensible], straight guy\n[Incomprehensible] what you know, I'm the champ\n\nYes sir, yes ma'am, oh"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/87487",
+   "full_title": "Crayon Song by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "id": 87487,
+   "lyrics_owner_id": 122883,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-crayon-song-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "Crayon Song",
+   "title_with_featured": "Crayon Song",
+   "url": "https://genius.com/Andre-3000-crayon-song-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "[Hook]\nEverybody do the crayon, crayon x4\n\n[Verse 1]\nBlack or blue, purple or yellow\nOr red\nSee, we all in this box together\nOh yeah, Oh yeah\nThe world is like a coloring book\nTo get the whole picture each other it took\nSo\n[Hook]"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1605981",
+   "full_title": "A Richer Shade Of Blue by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "id": 1605981,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-a-richer-shade-of-blue-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "A Richer Shade Of Blue",
+   "title_with_featured": "A Richer Shade Of Blue",
+   "url": "https://genius.com/Andre-3000-a-richer-shade-of-blue-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "You see all these people out here on this street, Eddie\nSee they got blues\nI'm talking 'bout they poor\nThey broke, they hungry, that's blues\n\nWell, the blues can live in Buckhead too\nI know it's just a richer shade of blue\nBut it's still blue, I can feel it, listen\n\nHe got everything he want\nBut everything he need money don't buy\nNow if that ain't blues I'll say listen, oh\n\nThey look at you\nAll they see is dollar sign\nNow if that ain't blues I'll say listen\nA rich shade of blue\n\nOkay, okay, you snappin', you snappin'\nA rich shade of blue\nWell, I'm just playing what I feel and it sure feels good\nA rich shade of blue\n\nI see I'ma have to bring you down to Bankhead more often\n'Cause you goin' off\nA rich shade of blue\nOr we can take it to Buckhead and do it Peachtree style\nA rich shade of blue\n\nEverybody fall down sometime, yeah, just like that\nOh, but you gotta get back to the place where they know your face\nAnd they don't mind if you cry sometimes\nThey listen 'cause they cry too\n\nOoh, that's right, right, right\nA rich shade of blue\nI guess it ain't where you from, it's where you at\nA rich shade of blue\n\nIt's my birthday and I'm having the best worst time of my life\nA rich shade of blue\nMan, we stand out on this corner any longer\nYou gon' make me rich\nA rich shade of blue"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1494192",
+   "full_title": "Luna Love by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "id": 1494192,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-luna-love-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "Luna Love",
+   "title_with_featured": "Luna Love",
+   "url": "https://genius.com/Andre-3000-luna-love-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "Love is in the air\n\nTe quiero, mi quieres\nTe adoro, I confess\nI love you, do you love me?\nI adore you, can't you see?\n\nDarlin' to me you are fantastic\nFor you I will swim the entire Panama Canal\nAnd you will be my girl\n\nI will dance the flamenco with a flamingo\nIn the streets of Miami all night long\nUntil you hear my song\n\nYes, yes, I know, call me crazy\nCall me insane, as long as you call me\nMy number is\n\nTe quiero, mi quieres\nTe adoro, I confess\nI love you, do you love me?\nI adore you, can't you see?\n\nTe quiero, mi quieres\nTe adoro, I confess\nI love you, do you love me?\nI adore you, can't you see?"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1656744",
+   "full_title": "Class Of 3000 Theme by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "id": 1656744,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-class-of-3000-theme-lyrics",
+   "pyongs_count": 2,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "Class Of 3000 Theme",
+   "title_with_featured": "Class Of 3000 Theme",
+   "url": "https://genius.com/Andre-3000-class-of-3000-theme-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "Sunny:\nGood morning, little people!\n\nClass:\nGood morning, Sunny!\n\nSunny:\nAlright! Madison?\n\nMadison:\nSpeaking!\n\nSunny:\nEddie?\n\nEddie:\nPresent\n\nSunny:\nTamika?\n\nTamika:\nWhat up?\n\nKim, Kam?\n\nKim:\nRight here!\n\nKam:\nRight here\n\nSunny:\nPhilly Phil?\n\nPhilly Phil:\nUh, here\n\nSunny:\nLi'l D? Li'l D?!\n\nEveryone:\nAw yeah!\nSunny:\nClass of 3000, sing\nEveryone:\nLa, la, la, la, la\n\nSunny:\nNow Philly Phil, you and Li'l D, y'all hold that groove tight\nHypnotize them so you can take them where you wanna take them\nClass:\nHey, Sunny, can we take them to the bridge? Huh, huh, huh?\nHey, Sunny, can we take them to the bridge?\nSunny:\nAh, okay\n\nMadison:\nOh, I know that one\nLondon Bridge is falling down\nFalling down, falling down\nLondon Bridge is falling down\n\nClass:\nSo much reality TV that real life becomes a sitcom\nIf you ain't got no rhythm\nWe gon' show you how to get some, yeah\n\nKam:\nThis beat is ferocious!\nKim:\nYeah, like a big ol' tiger!\n\nSunny:\nClass of 3000, sing\nEveryone:\nLa, la, la\n\nLi'l D:\nSee, shawty, we gotta show these folks we don't play, even when we do be playin'!\n\nTamika:\nYou don't even watch cartoons! Man, that's scary. I bet if you ordered a banana split, you won't even eat the cherry! Man, you lame!\n\nLi'l D:\nShawty, what you talkin' bout?\n\nSunny:\nOoh, sound like you've been practicin', Eddie!\n\nMadison:\nDo, Re, Mi, Fa, So, La, Ti, Do\n\nSunny:\nAlright now, just like we rehearsed it!\nOne, two, one, two, three, here we go\nStay cool now, stay cool, shh, let the music do all the talkin'\n\nMadison:\nUm, Sunny?\n\nSunny:\nAh, yes, Madison?\n\nMadison:\nExcuse me but, um, the radio people don't play songs without words anymore\n\nSunny:\nYeah, I know, but don't you worry about that, as long as it's jammin' all the cool people will play it\n\nMadison:\nOhh...\n\nPhilly Phil:\nHey, Li'l D, how you like my new electrophonic bass thingamajig? Heh, just made it, heh!\n\nLi'l D:\nOh, that's fly!\n\nSunny:\nNow remember lesson one\nBe yourself 'cause no one else can\nTake your seat at cool school\nThat's right, Class of 3000\nBe yourself 'cause no one else can\nDo that thing like you do\nRight again, Class of 3000\nAnd always remember to let 'em know\nWhere you come from just so they know\n\nClass:\nBankhead, Buckhead, go ahead, go ahead\nBankhead, Buckhead, go ahead, go ahead\n\nMadison:\nHey, y'all, what about East Point and College Park?\n\nClass:\n(laughter)\nYeah, alright, cool\n\nSunny:\nAlright now, Li'l D, i'm gonna need some thunder and lightening out them drums\n\nLi'l D:\nAlright!\n\nSunny:\nLet's take 'em home\n\nMadsion:\nOh, we're on the radio!\n\nEddie:\nMoney can't buy you funk, no, no, no, no\n\nKam:\nYeah..."
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1698943",
+   "full_title": "Cool Kitty by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "id": 1698943,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-cool-kitty-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "Cool Kitty",
+   "title_with_featured": "Cool Kitty",
+   "url": "https://genius.com/Andre-3000-cool-kitty-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "I'm so cool I could be an Eskimo\nEven in the summer at my house it snows\nOoh, I'm always chillin' like it's forty below\nI'm so hot, I'm cold, cool kitty\n\nCool kitty, I'm a cool, cool cat\nCool kitty, I'm a cool, cool cat\nCool kitty, I'm a cool, cool cat\nCool kitty, I'm a cool, cool cat\n\nCool kitty, I'm a cool, cool cat\nCool kitty, I'm a cool, cool cat\nCool kitty, I'm a cool, cool cat\nCool kitty, I'm a cool, cool cat\n\nMeet me at the corner of cool and ice\nWhere all the girls hang out, you know the spots\nThe cars are fast and the motors are loud\nIf I were you I would be in the crowd, cool kitty, cool kitty\n\nCool kitty, I'm a cool, cool cat\nCool kitty, I'm a cool, cool cat\nCool kitty, I'm a cool, cool cat\nCool kitty, I'm a cool, cool cat\n\nCool kitty, I'm a cool, cool cat\nCool kitty, I'm a cool, cool cat\nCool kitty, I'm a cool, cool cat\nCool kitty, I'm a cool, cool cat"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1689244",
+   "full_title": "Throwdown by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "id": 1689244,
+   "lyrics_owner_id": 1440684,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-throwdown-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "Throwdown",
+   "title_with_featured": "Throwdown",
+   "url": "https://genius.com/Andre-3000-throwdown-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "Do I watch cartoons?\nClass of 3000\n\nTalk what you heard, pay your penny\nThat means I could throwdown, oh yeah\nOlly olly oxen free your body\nWhen we come to your town, oh, yeah\n\nJump up and touch the sky\nFall till you hit the dance floor, oh, yeah\nI promise if you give it all you got\nEvery time they want more\nYeah, more, yeah, more, yeah\n\nWe throwdown, we throwdown, hey\nWe throwdown, we throwdown, hey\nWe throwdown, we throwdown, hey\nWe throwdown, we throwdown, hey\n\nWe throwdown, we throwdown, hey\nWe throwdown, we throwdown, hey\nWe throwdown, we throwdown, hey\nWe throwdown, we throwdown\n\nClap, clap your hands\nTell your mama, \"That man throws down\"\nOoh, from Atlanta to Japan\nEvery land throwdown, oh, yeah\n\nJump up and touch the sky\nFall, hit the dance floor, oh, yeah\nI promise if you give it all you got\nEvery time they want more\nYeah, more, yeah, more, yeah\n\nWe throwdown, we throwdown, hey\nWe throwdown, we throwdown, hey\nWe throwdown, we throwdown, hey\nWe throwdown, we throwdown, hey\n\nWe throwdown, we throwdown, hey\nWe throwdown, we throwdown, hey\nWe throwdown, we throwdown, hey\nWe throwdown, we throwdown, throwdown\n\nOoh, wait, we got this thang pumpin' like fried bologne\nI'm, Li'l D and all these drums, I throwdown\nThat's better than throwin' up\nI'm Eddie and with my horn I'll blow you away\n\nI'm Kim and I'm Kam\nI'm on the turntables and I make the keyboard jam\nI'm Philly Phil and I play bass\nSo I got that bottom, bow your bottom\n\nYou know who I am, I'm Tamika\nAnd with this here guitar I'm a superstar\nHey, all people, I'm Madison and I'm a Pisces\nNo, Madison, you're supposed to let them know what instrument you play\nOh, um, I play violin and I think we're comin' to the end\n\nBye"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1606257",
+   "full_title": "Life Without Music by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "id": 1606257,
+   "lyrics_owner_id": 1440684,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-life-without-music-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "Life Without Music",
+   "title_with_featured": "Life Without Music",
+   "url": "https://genius.com/Andre-3000-life-without-music-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "La, la, la\nL-l-life without m-m-music's\nLike l-l-life without love\n\nMan, if we had no music what would we dance to?\nWhat would we sing to?\nHow would them babies learn their ABC's\nOh, no\n\nNo, 'Twinkle Twinkle Little Stars'\nNo, 'Old McDonald Had A Farm'\nAnd birds would have nothing to sing\nNo, 'Take Me Out To The Ball Game'\n\nLife without music\nThis is terrible\n(No, no, no)\n\nUh, we wouldn't even whistle\n(No, no, no)\nAnd we wouldn't have a heartbeat\n'Cause we wouldn't know what a beat was\n\nLife without music\nThat's so lame\n(Life without music)\nMan, we wouldn't even have no ring tones\n\nShawty the phone wouldn't even ring\n(Life without music)\nUh, it would just vibrate\n\nAt least nobody will be able to download your songs\n(Life without)\nShe's got a point\n\nWe' gon have to do something 'bout this"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1161936",
+   "full_title": "Oh Peanut by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "id": 1161936,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-oh-peanut-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "Oh Peanut",
+   "title_with_featured": "Oh Peanut",
+   "url": "https://genius.com/Andre-3000-oh-peanut-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "Oh Peanut, we love you, baby\nOh Peanut, we love you, baby\n\nOh Peanut, we love you, baby\nOh Peanut, we love you, baby\nOh Peanut, we love you, baby\nOh Peanut, we love you, baby\n\nEddie:\nBuckhead, yeah, yeah, what\nI rap my state, might as well throw it up\nSee, I been eatin\u2019 peanuts and things since I was two\nMay I recommend the Thai sauce or a soup, scoop\n\nLi'l D:\nPeanut butter, yeah, or peanut brittle, yeah\nPeanut with some jelly and cracker sits in the middle, alright\nI\u2019ve been eating peanut and stuff since I was little\nBankhead, Li\u2019l D, Madison, play your fiddle\n\nMadison:\nDitto!\n\nOh Peanut, we love you, baby\nOh Peanut, we love you, baby\nOh Peanut, we love you, baby"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4838080",
+   "full_title": "Hey Ya! - Single Version by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/3e4ff7fcbf45adf3a22baa4a26a704bf.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3e4ff7fcbf45adf3a22baa4a26a704bf.1000x1000x1.jpg",
+   "id": 4838080,
+   "lyrics_owner_id": 8855291,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-hey-ya-single-version-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3e4ff7fcbf45adf3a22baa4a26a704bf.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3e4ff7fcbf45adf3a22baa4a26a704bf.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "Hey Ya! - Single Version",
+   "title_with_featured": "Hey Ya! - Single Version",
+   "url": "https://genius.com/Andre-3000-hey-ya-single-version-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "[Intro: Andr\u00e9 3000]\n1, 2, 3, uh!\n\n[Verse 1: Andr\u00e9 3000]\nMy baby don't mess around\nBecause she loves me so, and this I\u2005know\u2005for sure (Uh)\nBut\u2005does she really wanna\nBut can't stand\u2005to see me walk out the door? (Ah)\nDon't try to fight the feeling\n'Cause the thought alone is killing me right now (Uh)\nThank God for Mom and Dad\nFor sticking to together 'cause we don't know how (C'mon)\n\n[Chorus: Andr\u00e9 3000]\nHey ya! Hey ya!\nHey ya! Hey ya!\nHey ya! Hey ya!\nHey ya! Hey ya!\n\n[Verse 2: Andr\u00e9 3000]\nYou think you've got it, oh, you think you've got it\nBut \u201cgot it\u201d just don't get it 'til there's nothing at all\nWe get together, oh, we get together\nBut separate's always better when there's feelings involved\nIf what they say is \u201cNothing is forever\u201d\nThen what makes, then what makes, then what makes\nThen what makes, what makes, what makes love the exception?\nSo why oh, why oh, why oh, why oh, why oh\nAre we so in denial when we know we're not happy here?\nY'all don't want to hear me, you just want to dance\n\n[Chorus: Andr\u00e9 3000]\nHey ya! (Uh-oh) Hey ya! (Uh-oh)\nDon't want to meet your daddy\nHey ya! (Uh-oh)\nJust want you in my Caddy (Uh-oh)\nHey ya! (Uh-oh)\nDon't want to meet your mama (Uh-oh)\nHey ya! Uh-oh\nJust want to make you cumma (Uh-oh)\nHey ya! Uh-oh\nI'm, I'm, I'm, I'm just being honest (Uh-oh)\nHey ya!\nI'm just being honest\n\n[Bridge 1: Andr\u00e9 3000]\nHey, alright now, alright now, fellas (Yeah?)\nNow, what's cooler than being cool? (Ice Cold!)\nI can't hear ya\nI say what's, what's cooler than being cool? (Ice Cold!)\nAlright, alright, alright, alright, alright, alright, alright, alright\nAlright, alright, alright, alright, alright, alright\nOkay now, ladies (Yeah?)\nNow, we gon' break this thing down in just a few seconds\nNow don't have me break this thing down for nothing\nNow I want to see y'all on your baddest behavior\nLend me some sugar, I am your neighbor\nAh, here we go!\n\n[Refrain: Andr\u00e9 3000]\nShake it, sh-shake it, shake it, sh-shake it (Uh-oh)\nShake it, sh-shake it, Shake it, shake it, sh-shake it (Uh-oh)\nShake it like a Polaroid picture, hey ya!\nShake it, sh-shake it, shake it, sh-shake it\nShake it, shake it (okay), shake it, sugar\nShake it like a Polaroid picture\n\n[Bridge 2: Andr\u00e9 3000]\nNow all the Beyonc\u00e9s and Lucy Lius\nAnd baby dolls, get on the floor\nYou know what to do, oh, you know what to do\nYou know what to do\n\n[Chorus: Andr\u00e9 3000]\nHey ya! (Uh-oh) Hey ya! (Uh-oh)\nHey ya! (Uh-oh) Hey ya! (Uh-oh, hey ya!)\nHey ya! (Uh-oh) Hey ya! (Oh, oh, uh-oh)\nHey ya! (Uh-oh) Hey ya! (Uh-oh)"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3187543",
+   "full_title": "\"Hmmm!\" by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "id": 3187543,
+   "lyrics_owner_id": 5023151,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-hmmm-annotated",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "\u201cHmmm!\u201d",
+   "title_with_featured": "\"Hmmm!\"",
+   "url": "https://genius.com/Andre-3000-hmmm-annotated",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "Verse 1 (LSK): um i feel like ive never properly introduced myself to the 2k community but um i thought i should just say hi how you doing my names LSK mmm all you 2k niggas pack pull videos as fake as kim k mmm jwdahgbfahvbjhfdsbvhjfbgvhfbvj fnvkjdsvjdkfvdfbv\nwfvjfjkwhvqefbgvregb\nebgvojvhfr\ngh\nghrqgje;'ogjefjg\nqeq\ng\ntfqb bb kqgbjlejvkhfjkvelkb2wlrhgbpiw"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1481051",
+   "full_title": "UFO Ninja by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "id": 1481051,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-ufo-ninja-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "UFO Ninja",
+   "title_with_featured": "UFO Ninja",
+   "url": "https://genius.com/Andre-3000-ufo-ninja-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "I would find you ninja style\n\nOoh, oh\nOoh, oh, I am a ninja\nOoh, oh, UFO ninja\n\nOoh, I am a ninja\nOoh, UFO ninja\nOoh, I am a ninja\nOoh, UFO ninja\n\nOoh, ooh\nOoh, I am a ninja\nOoh"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/866230",
+   "full_title": "Kim Kam Jam by\u00a0Andr\u00e9\u00a03000 (Ft.\u00a0Class\u00a0of 3000)",
+   "header_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "id": 866230,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-kim-kam-jam-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "Kim Kam Jam",
+   "title_with_featured": "Kim Kam Jam (Ft.\u00a0Class\u00a0of 3000)",
+   "url": "https://genius.com/Andre-3000-kim-kam-jam-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "Oh yeah, play it\nOh, I hear ya\nPlay it, yeah\n\nAha, come on\nGo for it, ooh\nOh yeah, I hear ya\nOh yeah\n\nYeah\nOoh, wow, wooh\nI hear you, I like that\nYeah, aha\n\nYeah, you go bro\nOh yeah, aha\nYeah, come on\nI can't hear you\n\nThat's right\nKeep it goin'\nAha, oh yeah\nWooh, wooh, aha"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1771923",
+   "full_title": "Fight The Blob by\u00a0Andr\u00e9\u00a03000",
+   "header_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "id": 1771923,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Andre-3000-fight-the-blob-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c4340d6a495a44420490eff3a5ebd740.1000x1000x1.jpg",
+   "stats": {
+    "unreviewed_annotations": 0,
+    "hot": false
+   },
+   "title": "Fight The Blob",
+   "title_with_featured": "Fight The Blob",
+   "url": "https://genius.com/Andre-3000-fight-the-blob-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/14266",
+    "header_image_url": "https://images.genius.com/98a98bd64f8265eff8e5cb8b815707e2.980x490x1.jpg",
+    "id": 14266,
+    "image_url": "https://images.genius.com/64b15c9489c65f5bf8f6577334347404.434x434x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Andr\u00e9 3000",
+    "url": "https://genius.com/artists/Andre-3000",
+    "iq": 110
+   },
+   "lyrics": "Alright, Westley Funkaneers, today we go to war\nI want you to man your instruments\nHello? Well, lady your instruments, whatever\nYou know what I'm talking about\n\nBecause we have a big, big problem on our hands\nAnd I say before we let this blob take over our city\nWe funk him outta town\nYa'll ready?\n\nBlob, you goin' down\nHey, hey, hey, blob, get out of town\nThe Westley mob gon' make you frown\nHey, hey, hey, blob, you goin' down\n\nNuclear waste, sloppy joe\nWhere it goes no one knows\nMaybe underground where it's found\nBut it can't play here no more, sing, come on\n\nNuclear waste, sloppy joe\nWhere it goes no one knows\nMaybe underground where it's found\nBut it can't play here no more\n\nHey, hey, hey, blob, you goin' down\nHey, hey, hey, blob, get out of town\nThe Westley mob gon' make you frown\nHey, hey, hey, blob, you goin' down\n\nWell done soldiers, the battle is won\nBut the war continues\nThanks to every last one of you courageous Funkaneers\nAtlanta can sleep tight tonight\n\nBecause you faced your problems head on\nYou didn't run away from 'em\nAnd that's how true players do it\nThey get straight to it, at ease soldiers"
+  }
+ ]
+}
